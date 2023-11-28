@@ -1,7 +1,7 @@
 # import random
 # import gymnasium as gym
-import numpy as np
 # import matplotlib.pyplot as plt
+import numpy as np
 
 LEARNING_RATE = 0.05
 DISCOUNT_RATE = 0.99
